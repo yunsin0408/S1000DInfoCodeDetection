@@ -1,4 +1,4 @@
-# S1000DInfoCodeDetenction
+# S1000DInfoCodeDetection
 This project uses and compares SVM, Random Forest and BERT as training models to identify the Information Code in S1000D Data Module Codes.
 
 According to the S1000D 6.0 specification, there are a total of 1,145 Information Codes covering a wide range of topics (e.g., function, operation, servicing, fault reports). These codes categorize technical information into various functional areas. Given this, we aim to leverage machine learning by using XML files with correctly labeled Information Codes as a dataset to train an automated classification tool.
